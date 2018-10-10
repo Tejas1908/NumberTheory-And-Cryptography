@@ -1,12 +1,6 @@
 # Number Theory and Cryptography (CO313): Assignment 1
 
-**Members:**
 
-Tejas R (16CO148)           - <tejas1908@gmail.com>
-
-Kaushik (16CO120)           - <kaushik5699@gmail.com>
-
-<br><br>
 **Problem Statement:**
 
 Given an input format and output format for numbers , develop a MATLAB tool to verify 
